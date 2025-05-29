@@ -4,8 +4,6 @@
 
 This project utilizes OpenAI Agents SDK to build a multi-agent system for handling inquiries about mobile shop sales. The system consists of multiple specialized agents that work together to provide accurate product information and shop details.
 
-![](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/2cf5e820-ffed-11ef-abed-590e34770dd0-Screen_Shot_2025_03_13_at_11.50.57.png)
-
 
 ## System Architecture
 
