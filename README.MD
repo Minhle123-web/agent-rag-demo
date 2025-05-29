@@ -94,10 +94,3 @@ curl -X POST "http://127.0.0.1:5001/chat" \
      -d '{"message": "Điện thoại này bộ nhớ trong bao nhiêu?", "thread_id": "1"}'
 ```
 
-## License
-This project is licensed under [MIT License](LICENSE).
-
----
-
-With this README, your project is now more structured and easier to understand for new users!
-
